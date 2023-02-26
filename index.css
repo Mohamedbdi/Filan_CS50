@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+form{
+    position: absolute;
+    padding-left: 35%;
+    padding-top: 15%;
+}
+div ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 70%;
+}
+div ul li{
+    list-style-type: none;
+    padding: 25px;
+}
+div  ul li a{
+    text-decoration: none;
+    color: red;
+  
+}
